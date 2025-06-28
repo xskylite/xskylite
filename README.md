@@ -23,6 +23,9 @@ Currently experimenting with **microservices**, **Docker**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" title="Fastify" width="42" />
+<img src="https://elysiajs.com/assets/elysia.svg" title="ElysiaJS" width="42" />
+ 
 </p>
 
 ### Styling & UI
@@ -52,6 +55,7 @@ Currently experimenting with **microservices**, **Docker**.
   <img src="https://www.svgrepo.com/show/452202/figma.svg" title="Figma" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="42" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop" width="42" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_poHZD7zedIFVi_xyvSwkXCSsfmhNYElEQA&s" title="Photoshop" width="42" />
 </p>
 
 ---
